@@ -11,4 +11,10 @@ Implementation of Naive Bayes Classification based on research paper using some 
 - N-Gram for Location Identification
 - Naive Bayes Classification for linear classification
 
+
+##### How to setup:
+- git clone https://github.com/aashari/research-naive-bayes-classification
+- cd research-naive-bayes-classification
+- composer install
+
 Demo: https://research.aashari.id/3plus1/

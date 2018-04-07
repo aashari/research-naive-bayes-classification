@@ -1,0 +1,13 @@
+{
+    "name": "aashari/research-naive-bayes-classification",
+    "authors": [
+        {
+            "name": "Andi Ashari",
+            "email": "mq.aashari@gmail.com"
+        }
+    ],
+    "require": {
+        "sastrawi/sastrawi": "^1.2",
+        "sastrawi/tokenizer": "0.*"
+    }
+}
